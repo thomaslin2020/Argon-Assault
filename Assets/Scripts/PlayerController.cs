@@ -20,7 +20,6 @@ public class PlayerController : MonoBehaviour {
     float controlPitchFactor = -20f;
 
     [SerializeField] float controlRollFactor = -20f;
-
     float _xThrow, _yThrow;
     private bool _isControlEnabled = true;
 
